@@ -22,4 +22,4 @@
 ## 🎯 Goals
 - Continue improving as a developer through consistent practice  
 - Build practical, well-documented projects  
-- Expand into more advanced JavaScript and full-stack development  
+- Expand My Knowledge base of Networking Subjects And Delve Deeper into CyberSecurity.
